@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there! Welcomed to my page! 
 I'm Álvaro Lassaletta, a developer in progress. I'm currently in my second year of my vocational training studies in cross-platform application development, while also pursuing a Master's Degree in Cybersecurity (2nd year starting in February 2025).
 
 
